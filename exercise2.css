@@ -1,0 +1,28 @@
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+    color: white;
+    background-color: red;
+}
+
+#about_blue {
+  border-color: black;
+  border-width: 3px;
+  border-style: solid;
+  background-color: #6495ED;
+}
+
+#about_blue li{
+  color: blue;
+}
+
+#about_yellow {
+  border-color: black;
+  border-width: 3px;
+  border-style: solid;
+  background-color: #FFEBCD;
+}
+
+#about_yellow li{
+  color: orange;
+}
